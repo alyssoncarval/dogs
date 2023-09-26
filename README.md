@@ -17,6 +17,6 @@
     $ npm install
 
     Start
-    $ npm start
+    $ npm run dev
 
 Made with 💙 by <a href="https://github.com/alyssoncarval/" target="_blank">Alysson Carvalho</a></p>
