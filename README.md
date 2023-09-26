@@ -1,7 +1,7 @@
 <h2>🔖 Description</h2>
 <p>🐕 Creation of the Dogs application, a social network for dogs created in Origamida's React course.</p>
+<p>You can view the site <a href="https://dogs-alyssoncarval.vercel.app/" target="_blank">here</p>
 
-</br>
 
 <h2>🚀 Stack</h2>
 <ul>
@@ -10,7 +10,12 @@
     <li><a href="https://github.com/FormidableLabs/victory" target="_blank">Victory</a></li>
 </ul>
 
-<br>
+<h2>📌 Knowledge</h2>
+<ul>
+    <li>Clean Code</li>
+    <li>Responsive Design</li>
+    <li>User Registration and Login</li>
+</ul>
 
 <h2>ℹ️ How to install</h2>
 
@@ -23,6 +28,4 @@
     Start
     $ npm start
 
-
-<br>
-Made with 💙 by <a href="https://github.com/alyssoncarval/" target="_blank">Alysson Carvalho</a></p>
+Made with 🤍 by <a href="https://github.com/alyssoncarval/" target="_blank">Alysson Carvalho</a></p>
