@@ -5,8 +5,8 @@
 
 <h2>🚀 Stack</h2>
 <div style="display: inline_block">
-  <img align="center" alt="Alysson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/react-original.svg">
-  <img align="center" alt="Alysson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/css3-original.svg">
+  <img align="center" alt="Alysson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original.svg">
+  <img align="center" alt="Alysson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 
