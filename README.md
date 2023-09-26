@@ -1,5 +1,5 @@
 <h2>🔖 Description</h2>
-<p>🐕 Creation of the Dogs application, a social network for dogs created in Origamida's React course.</p>
+<p>🐕 Creation of the Dogs application, a social network for dogs created in Origamid's React course.</p>
 <p>You can view the site <a href="https://dogs-alyssoncarval.vercel.app/" target="_blank">here</p>
 
 
