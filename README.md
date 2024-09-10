@@ -33,5 +33,3 @@
 <img src="/public/screenshot-1.png">
 <img src="/public/screenshot-2.png">
 <img src="/public/screenshot-3.jpg">
-
-Made with 🤍 by <a href="https://github.com/alyssoncarval/" target="_blank">Alysson Carvalho</a></p>
